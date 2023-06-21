@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>MAC-MIGS</a>. #Address. Contacts. Moto. Etc.
+subtitle: Affiliations; <a href='https://www.mac-migs.ac.uk/'>MAC-MIGS</a>, <a href='https://www.hw.ac.uk/'>Heriot-Watt University</a>. #Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Office F03</p>
-    <p>First Gait, Currie EH14 4AS</p>
+    <p>Office CM F.03</p>
+    <p>Currie EH14 4AS</p>
     <p>Edinburgh, United Kingdom</p>
 
 news: true  # includes a list of news items
