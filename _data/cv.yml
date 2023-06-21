@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Sofie Verhees
-    - name: Date of Birth
-      value: 11th February 1999
+    #- name: Date of Birth
+    #  value: 11th February 1999
     - name: Languages
       value: English, Dutch
 
