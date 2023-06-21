@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.mac-migs.ac.uk/'>MAC-MIGS</a>. #Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>MAC-MIGS</a>. #Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Office F.03</p>
+    <p>Office F03</p>
     <p>First Gait, Currie EH14 4AS</p>
     <p>Edinburgh, United Kingdom</p>
 
