@@ -11,48 +11,45 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD Mathematical Modelling, Analysis and Computation (MAC-MIGS)
       institution: Maxwell Institute Graduate School, Edinburgh, UK
       year: 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: MSc
+        - MAC-MIGS is an intensive 4-year training and research programme that equips students with the skills needed to tackle challenges in the formulation, analysis and implementation of state-of-the-art mathematical and computational models and methods. 
+        #- Description 2.
+        #- title: Description 3.
+        #  contents:
+        #    - Sub-description 1.
+        #    - Sub-description 2.
+    - title: MSc Mathematical Biology, Ecology, and Medicine
       institution: Heriot-Watt University, Edinburgh, UK
       year: 2020
       description:
-        - Description 1.
-        - Description 2.
-    - title: BSc
+        - This Master's programme takes one year, including two semesters of focussed courses and a challenging thesis over summer.
+    - title: BSc (Hons) Technology, Liberal Arts and Sciences
       institution: University of Twente, Enschede, Netherlands
       year: 2017
       description:
-        - Description 1.
-        - Description 2.
+        - The Bachelor's programme in Technology and Liberal Arts & Sciences (ATLAS) is a three-year educational programme taught entirely in English. The ATLAS curriculum is firmly based in science & mathematics and social sciences. I learned about these subjects in interactive courses and workshops and applied what I learned in a project setting. .
+    - title: Undergraduate Exchange Student
+      institution: Korea Advanced Institute of Science and Technology, Daejeon, South-Korea
+      year: 2019
+      description:
+        - As an undergraduate exchange student at the Department of Mathematical Sciences, I took courses in mathematics, and bio and brain engineering. 
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Tutor
+        institution: Heriot-Watt University, Edinburgh, UK
+        year: 2022 - present
+        description:
+          - Tutoring and marking of undegraduate students in mathematics
+    - title: Teacher
+      institution: De Digitale Topschool, Netherlands
+      year: 2020 - 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - Challenging gifted primary school pupils by providing them with extracurricular assignments that exceed the difficulty level of regular education.
 
 #- title: Open Source Projects
 #  type: time_table
@@ -75,14 +72,13 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Mathematical Biology
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Modelling human cells.
+        - Cell signalling.
+    - title: PDEs
       items:
-        - Description 1.
-        - Description 2.
+        - Numerics of PDEs using FEniCS.
 
 #- title: Other Interests
 #  type: list
