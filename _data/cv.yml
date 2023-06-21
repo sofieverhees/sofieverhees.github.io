@@ -41,10 +41,10 @@
   type: time_table
   contents:
     - title: Tutor
-        institution: Heriot-Watt University, Edinburgh, UK
-        year: 2022 - present
-        description:
-          - Tutoring and marking of undegraduate students in mathematics
+      institution: Heriot-Watt University, Edinburgh, UK
+      year: 2022 - present
+      description:
+        - Tutoring and marking of undegraduate students in mathematics
     - title: Teacher
       institution: De Digitale Topschool, Netherlands
       year: 2020 - 2021
