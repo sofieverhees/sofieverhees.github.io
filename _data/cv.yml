@@ -15,7 +15,7 @@
       institution: Maxwell Institute Graduate School, Edinburgh, UK
       year: 2021
       description:
-        - MAC-MIGS is an intensive 4-year training and research programme that equips students with the skills needed to tackle challenges in the formulation, analysis and implementation of state-of-the-art mathematical and computational models and methods. 
+        - MAC-MIGS is an intensive 4-year training and research programme on the formulation, analysis and implementation of state-of-the-art mathematical and computational models and methods. 
         #- Description 2.
         #- title: Description 3.
         #  contents:
@@ -24,19 +24,19 @@
     - title: MSc Mathematical Biology, Ecology, and Medicine
       institution: Heriot-Watt University, Edinburgh, UK
       year: 2020
-      description:
-        - This Master's programme takes one year, including two semesters of focussed courses and a challenging thesis over summer.
-    - title: BSc (Hons) Technology, Liberal Arts and Sciences
-      institution: University of Twente, Enschede, Netherlands
-      year: 2017
-      description:
-        - The Bachelor's programme in Technology and Liberal Arts & Sciences (ATLAS) is a three-year educational programme taught entirely in English. The ATLAS curriculum is firmly based in science & mathematics and social sciences. I learned about these subjects in interactive courses and workshops and applied what I learned in a project setting. .
+      #description:
+      #  - This Master's programme takes one year, including two semesters of focussed courses and a challenging thesis over summer.
     - title: Undergraduate Exchange Student
       institution: Korea Advanced Institute of Science and Technology, Daejeon, South-Korea
       year: 2019
       description:
-        - As an undergraduate exchange student at the Department of Mathematical Sciences, I took courses in mathematics, and bio and brain engineering. 
-
+        - As an undergraduate exchange student at the Department of Mathematical Sciences, I took courses in mathematics, and bio & brain engineering. 
+    - title: BSc (Hons) Technology, Liberal Arts and Sciences (ATLAS)
+      institution: University of Twente, Enschede, Netherlands
+      year: 2017
+      description:
+        - ATLAS is a three-year educational programme with a curriculum firmly based in science & mathematics and social sciences. I learned about these subjects in interactive courses and workshops and applied what I learned in a project setting.
+    
 - title: Experience
   type: time_table
   contents:
