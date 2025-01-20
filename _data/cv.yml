@@ -44,7 +44,7 @@
       institution: Heriot-Watt University, Edinburgh, UK
       year: 2022 - present
       description:
-        - Tutoring and marking of undegraduate students in mathematics
+        - Tutoring and marking of undegraduate students in mathematics.
     - title: Teacher
       institution: De Digitale Topschool, Netherlands
       year: 2020 - 2021
@@ -74,11 +74,14 @@
   contents:
     - title: Mathematical Biology
       items: 
-        - Modelling cell behaviour.
-        - Cell signalling.
+        - Modelling cell behaviour
+        - Mechanotransduction
     - title: PDEs
       items:
-        - Numerics of PDEs using FEniCS.
+        - PDE analysis
+        - Numerical simulations
+        - (Bulk-surface) finite elements
+        - Numerical convergence
 
 #- title: Other Interests
 #  type: list
