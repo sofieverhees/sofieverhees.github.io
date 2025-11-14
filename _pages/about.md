@@ -22,5 +22,5 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to my website!
 
-I am a PhD student in Mathematical Modelling, Analysis and Computation at the Maxwell Institute Graduate School (MAC-MIGS) in Edinbrugh. I'm passionate about using mathematical and computational models to improve current medicine. Currently, I am working on a project that models the interaction between chemical and mechanical signalling in cells using reaction-diffusion equations and the equations of linear elasticity.
+I am a PhD student in Mathematical Modelling, Analysis and Computation at the Maxwell Institute Graduate School (MAC-MIGS) in Edinburgh. I'm passionate about using mathematical and computational models to improve current medicine. Currently, I am working on a project that models the interaction between chemical and mechanical signalling in cells using reaction-diffusion equations and the equations of linear elasticity.
 
