@@ -24,8 +24,8 @@
       institution: Maxwell Institute Graduate School, Edinburgh, UK
       year: 2021 - 2025
       description:
-        - MAC-MIGS is an intensive 4-year training and research programme on the formulation, analysis and implementation of state-of-the-art mathematical and computational models and methods.
-        - 'Thesis Title: Mathematical modelling, analysis and simulation of cellular mechanotransduction'
+        #- MAC-MIGS is an intensive 4-year training and research programme on the formulation, analysis and implementation of state-of-the-art mathematical and computational models and methods.
+        - 'Thesis: Mathematical modelling, analysis and simulation of cellular mechanotransduction'
         - 'Supervision: Mariya Ptashnyk and Chandrasekhar Venkataraman'
         #- Description 2.
         #- title: Description 3.
