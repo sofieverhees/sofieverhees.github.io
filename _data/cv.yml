@@ -12,10 +12,9 @@
   type: time_table
   contents:
     - title: Postdoctoral Research Fellow
-      institution: University of British Columbia, Vancouver, Canada
+      institution: Department of Mathematics, University of British Columbia, Vancouver, Canada
       year: Dec 2025 - present
       description:
-        - Department of Mathematics
         - Supervisor: Anotida Madzvamuse
 
 - title: Education
@@ -26,8 +25,8 @@
       year: Sept 2021 - Oct 2025
       description:
         - MAC-MIGS is an intensive 4-year training and research programme on the formulation, analysis and implementation of state-of-the-art mathematical and computational models and methods.
-        - Thesis: Mathematical modelling, analysis and simulation of cellular mechanotransduction
-        - Supervision: Mariya Ptashnyk and Chandrasekhar Venkataraman
+        Thesis Title: Mathematical modelling, analysis and simulation of cellular mechanotransduction
+        Supervision: Mariya Ptashnyk and Chandrasekhar Venkataraman
         #- Description 2.
         #- title: Description 3.
         #  contents:
@@ -57,7 +56,7 @@
       year: 2022 - 2024
       description:
         - Tutoring and marking of undegraduate students in mathematics.
-        - Courses: Optimisation, Partial Differential Equations, Calculus A & B, Mathematics for Engineers and Scientists 1 & 2, Linear Algebra, Numerical Analysis A, Modelling & Toos, Maths Gym.
+        Courses: Optimisation, Partial Differential Equations, Calculus A & B, Mathematics for Engineers and Scientists 1 & 2, Linear Algebra, Numerical Analysis A, Modelling & Toos, Maths Gym.
     - title: Teacher
       institution: De Digitale Topschool, Netherlands
       year: 2020 - 2021
@@ -71,12 +70,12 @@
 #      year: 2015-now
 #      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-#- title: Honors and Awards
-#  type: time_table
-#  contents:
-#    - year: 1921
-#      items: 
-#        - Nobel Prize in Physics 
+- title: Awards
+  type: time_table
+  contents:
+    - year: Nov 2025
+      items: 
+        - Associate Fellowship of the Higher Education Academy (AFHEA)
 #        - Matteucci Medal
 #    - year: 2029
 #      items: 
