@@ -15,7 +15,7 @@
       institution: Department of Mathematics, University of British Columbia, Vancouver, Canada
       year: Dec 2025 - present
       description:
-        - Supervision by Anotida Madzvamuse
+        - 'Supervisor: Anotida Madzvamuse'
 
 - title: Education
   type: time_table
@@ -25,8 +25,8 @@
       year: Sept 2021 - Oct 2025
       description:
         - MAC-MIGS is an intensive 4-year training and research programme on the formulation, analysis and implementation of state-of-the-art mathematical and computational models and methods.
-        - Thesis title; Mathematical modelling, analysis and simulation of cellular mechanotransduction
-        - Supervision by Mariya Ptashnyk and Chandrasekhar Venkataraman
+        - 'Thesis Title: Mathematical modelling, analysis and simulation of cellular mechanotransduction'
+        - 'Supervision: Mariya Ptashnyk and Chandrasekhar Venkataraman'
         #- Description 2.
         #- title: Description 3.
         #  contents:
@@ -56,7 +56,7 @@
       year: 2022 - 2024
       description:
         - Tutoring and marking of undegraduate students in mathematics.
-        - Courses; Optimisation, Partial Differential Equations, Calculus A & B, Mathematics for Engineers and Scientists 1 & 2, Linear Algebra, Numerical Analysis A, Modelling & Toos, Maths Gym.
+        - 'Courses: Optimisation, Partial Differential Equations, Calculus A & B, Mathematics for Engineers and Scientists 1 & 2, Linear Algebra, Numerical Analysis A, Modelling & Toos, Maths Gym.'
     - title: Teacher
       institution: De Digitale Topschool, Netherlands
       year: 2020 - 2021
