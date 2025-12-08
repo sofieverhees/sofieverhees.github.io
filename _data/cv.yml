@@ -22,7 +22,7 @@
   contents:
     - title: PhD Mathematical Modelling, Analysis and Computation (MAC-MIGS)
       institution: Maxwell Institute Graduate School, Edinburgh, UK
-      year: Sept 2021 - Oct 2025
+      year: 2021 - 2025
       description:
         - MAC-MIGS is an intensive 4-year training and research programme on the formulation, analysis and implementation of state-of-the-art mathematical and computational models and methods.
         - 'Thesis Title: Mathematical modelling, analysis and simulation of cellular mechanotransduction'
@@ -34,20 +34,20 @@
         #    - Sub-description 2.
     - title: MSc Mathematical Biology, Ecology, and Medicine
       institution: Heriot-Watt University, Edinburgh, UK
-      year: Sept 2020 - Aug 2021
+      year: 2020 - 2021
       #description:
       #  - This Master's programme takes one year, including two semesters of focussed courses and a challenging thesis over summer.
+    - title: BSc (Hons) Technology, Liberal Arts and Sciences (ATLAS)
+      institution: University of Twente, Enschede, Netherlands
+      year: 2017 - 2020
+      description:
+        - ATLAS is a three-year educational programme with a curriculum firmly based in science & mathematics and social sciences. I learned about these subjects in interactive courses and workshops and applied what I learned in a project setting.
     - title: Undergraduate Exchange Student
       institution: Korea Advanced Institute of Science and Technology, Daejeon, South-Korea
       year: 2019
       description:
         - As an undergraduate exchange student at the Department of Mathematical Sciences, I took courses in mathematics, and bio & brain engineering. 
-    - title: BSc (Hons) Technology, Liberal Arts and Sciences (ATLAS)
-      institution: University of Twente, Enschede, Netherlands
-      year: Sept 2017 - Jul 2020
-      description:
-        - ATLAS is a three-year educational programme with a curriculum firmly based in science & mathematics and social sciences. I learned about these subjects in interactive courses and workshops and applied what I learned in a project setting.
-    
+        
 - title: Teaching Experience
   type: time_table
   contents:
@@ -56,7 +56,7 @@
       year: 2022 - 2024
       description:
         - Tutoring and marking of undegraduate students in mathematics.
-        - 'Courses: Optimisation, Partial Differential Equations, Calculus A & B, Mathematics for Engineers and Scientists 1 & 2, Linear Algebra, Numerical Analysis A, Modelling & Toos, Maths Gym.'
+        - 'Courses: Optimisation, Partial Differential Equations, Calculus A & B, Mathematics for Engineers and Scientists 1 & 2, Linear Algebra, Numerical Analysis A, Modelling & Tools, Maths Gym.'
     - title: Teacher
       institution: De Digitale Topschool, Netherlands
       year: 2020 - 2021
@@ -73,7 +73,7 @@
 - title: Awards
   type: time_table
   contents:
-    - year: Nov 2025
+    - year: 2025
       items: 
         - Associate Fellowship of the Higher Education Academy (AFHEA)
 #        - Matteucci Medal
